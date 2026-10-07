@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chaitali</h1>
 
 <h3 align="center">
-Cloud Enthusiast • Automation Engineer • Future Platform Architect
+Cloud Enthusiast
 </h3>
 
 <p align="center">
