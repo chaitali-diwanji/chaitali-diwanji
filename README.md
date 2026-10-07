@@ -34,8 +34,6 @@ My long-term goal is to grow into a Cloud & Platform Architect while developing 
 
 ## 🛠️ Tech Stack
 
-## 🧰 Tech Stack
-
 ### ☁️ Cloud
 AWS • Terraform • Kubernetes • Docker
 
