@@ -93,6 +93,27 @@ When I'm not exploring cloud technologies, you'll probably find me:
 
 ---
 
+## 🏆 Certifications
+
+<p align="left">
+
+<a href="https://www.credly.com/earner/earned/badge/11cd541b-d865-4ea7-a590-152d4f622af4">
+  <img src="https://img.shields.io/badge/AWS-AI_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor>
+
+<a href="https://www.credly.com/earner/earned/badge/71474b8f-0de9-435f-bdae-8d966f5e28e1">
+  <img src="https://img.shields.io/badge/AWS-Credential-232F3E?style=for-the-badge&logo=amazonaws=white
+</a>
+
+<a href="https://www.credly.com/earner/earned/badge/ba4df068-1c3d-449c-90f2-ae349e860a54">
+  <img src="https://img.shields.io/badge/AWS-Credential-146EB4?style=for-the-badge&logo=logoColor=white
+</a>
+
+<a href="https://www.credly.com/earner/earned/badge/deaf1265-340d-4859-98b0-dfbbc31aadf0">
+  <img src="https://img.shields.io/badge/AWS-Credential-F90?style=for-the-badge&logo=amazonaws=white
+</a>
+
+</p>
+
 ## 📊 GitHub Stats
 
 https://github-readme-stats.vercel.app/api?username=chaitali-diwanji&show_icons=true&theme=tokyonight
