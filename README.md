@@ -95,16 +95,15 @@ When I'm not exploring cloud technologies, you'll probably find me:
  
 ## 🏆 Certifications
  
-### 🏆 Certifications
-
 <p align="left">
   <a href="https://www.credly.com/earner/earned/badge/11cd541b-d865-4ea7-a590-152d4f622af4">
     <img src="assets/aws-ai-practg
   </a>
 </p>
  
----
 
+
+---
 ## 📊 GitHub Stats
 
 https://github-readme-stats.vercel.app/api?username=chaitali-diwanji&show_icons=true&theme=tokyonight
