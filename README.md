@@ -92,23 +92,22 @@ When I'm not exploring cloud technologies, you'll probably find me:
  👨‍👩‍👦 Balancing career growth with family life
 
 ---
- 
+
 ## 🏆 Certifications
- 
+
 <p align="left">
-  <a href="https://www.credly.com/earner/earned/badge/11cd541b-d865-4ea7-a590-152d4f622af4">
-    <img src="assets/aws-ai-practg
+  <a href="https://www.credly.com/earner/earned/badge/11cd541b-d865-4ea7-a590-152d4f622af4" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/4d4693bb-632a-4a0f-9204-aaa6c14a5090/image.png" alt="AWS Certified AI Practitioner" width="100" />
   </a>
 </p>
- 
-
 
 ---
+
 ## 📊 GitHub Stats
 
-https://github-readme-stats.vercel.app/api?username=chaitali-diwanji&show_icons=true&theme=tokyonight
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaitali-diwanji&show_icons=true&theme=tokyonight)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=chaitali-diwanji&layout=compact&theme=tokyonight
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitali-diwanji&layout=compact&theme=tokyonight)
 
 ---
 
