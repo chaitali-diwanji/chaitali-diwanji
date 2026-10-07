@@ -22,13 +22,13 @@ My long-term goal is to grow into a Cloud & Platform Architect while developing 
 
 ## 🚀 What I'm Currently Focused On
 
-- ☁️ AWS Architecture & Cloud Engineering
-- 🏗️ Infrastructure as Code with Terraform
-- ⚙️ CI/CD and Automation
-- 📦 Kubernetes & Container Technologies
-- 📈 Observability and Monitoring
-- 🔐 Cloud Security Best Practices
-- 🌟 Technical Leadership & Communication
+ ☁️ AWS Architecture & Cloud Engineering
+ 🏗️ Infrastructure as Code with Terraform
+ ⚙️ CI/CD and Automation
+ 📦 Kubernetes & Container Technologies
+ 📈 Observability and Monitoring
+ 🔐 Cloud Security Best Practices
+ 🌟 Technical Leadership & Communication
 
 ---
 
@@ -53,11 +53,11 @@ Linux • Git • CI/CD
 
 ## 🎯 2026 Goals
 
-- 🎯 Build and showcase cloud-native projects
-- 🎯 Deepen knowledge of Kubernetes and Platform Engineering
-- 🎯 Strengthen architecture and system design skills
-- 🎯 Improve public speaking and technical storytelling
-- 🎯 Grow into a technical leadership role
+ 🎯 Build and showcase cloud-native projects
+ 🎯 Deepen knowledge of Kubernetes and Platform Engineering
+ 🎯 Strengthen architecture and system design skills
+ 🎯 Improve public speaking and technical storytelling
+ 🎯 Grow into a technical leadership role
 
 ---
 
@@ -96,10 +96,10 @@ leadership:
 
 When I'm not exploring cloud technologies, you'll probably find me:
 
-- 🏋️ Staying active and working on fitness
-- 🚶 Going for a walk to clear my mind
-- 📚 Learning something new
-- 👨‍👩‍👦 Balancing career growth with family life
+ 🏋️ Staying active and working on fitness
+ 🚶 Going for a walk to clear my mind
+ 📚 Learning something new
+ 👨‍👩‍👦 Balancing career growth with family life
 
 ---
 
