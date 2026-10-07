@@ -34,35 +34,27 @@ My long-term goal is to grow into a Cloud & Platform Architect while developing 
 
 ## 🛠️ Tech Stack
 
-**☁️ Cloud**
+## 🧰 Tech Stack
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonawslor=white
-![Terraform](https://img.shields.io/badge/Terraform-844FBAquare&logo=terraform&logoColor=white
+### ☁️ Cloud
+AWS • Terraform • Kubernetes • Docker
 
-**⚙️ Platform**
+### ⚙️ Automation
+Python • Bash • GitLab • GitHub Actions
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-squareer&logoColor=white
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?are&logo=kubernetes&logoColor=white
+### 📊 Observability
+Grafana • OpenTelemetry • CloudWatch 
 
-**💻 Development**
+### ✅ Quality Engineering
+Cypress • Selenium • API Testing
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-squareon&logoColor=white
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DFsquare&logo=javascript&logoColor=black
-
-**📊 Observability**
-
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-squarena&logoColor=white
-
-**🚀 DevOps**
-
-![GitHub Actions](https://img.shields.io/badge/GFF?style=flat-square&logo=github-actions&logoColor=white
+### 🖥️ Platforms
+Linux • Git • CI/CD
 
 ---
 
 ## 🎯 2026 Goals
 
-- ✅ AWS Cloud Practitioner
-- 🎯 AWS Solutions Architect Associate
 - 🎯 Build and showcase cloud-native projects
 - 🎯 Deepen knowledge of Kubernetes and Platform Engineering
 - 🎯 Strengthen architecture and system design skills
@@ -123,7 +115,7 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=chaitali-diwanji&
 
 ## 🤝 Let's Connect
 
-https://img.shields.io/badge/LinkedIn-Chaitali_Diwanji-blue?style=for-the-badge&logo=linkedin](https://www.linkedin.com/in/chaitali-diwanji-b8008627/)
+📫 https://www.linkedin.com/in/chaitali-diwanji-b8008627/
 
 📧 chaitalidiwanji@gmail.com
 
