@@ -114,6 +114,8 @@ When I'm not exploring cloud technologies, you'll probably find me:
 
 </p>
 
+---
+
 ## 📊 GitHub Stats
 
 https://github-readme-stats.vercel.app/api?username=chaitali-diwanji&show_icons=true&theme=tokyonight
