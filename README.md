@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chaitali</h1>
+<h1 align="center">Hi 👋 I'm Chaitali</h1>
 
 <h3 align="center">
 Cloud Enthusiast
@@ -48,16 +48,6 @@ Cypress • Selenium • API Testing
 
 ### 🖥️ Platforms
 Linux • Git • CI/CD
-
----
-
-## 🎯 2026 Goals
-
- 🎯 Build and showcase cloud-native projects
- 🎯 Deepen knowledge of Kubernetes and Platform Engineering
- 🎯 Strengthen architecture and system design skills
- 🎯 Improve public speaking and technical storytelling
- 🎯 Grow into a technical leadership role
 
 ---
 
