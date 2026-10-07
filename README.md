@@ -34,23 +34,28 @@ My long-term goal is to grow into a Cloud & Platform Architect while developing 
 
 ## 🛠️ Tech Stack
 
-### Cloud & Infrastructure
-https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white
-https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white
+**☁️ Cloud**
 
-### Containers & Platform Engineering
-https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
-https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonawslor=white
+![Terraform](https://img.shields.io/badge/Terraform-844FBAquare&logo=terraform&logoColor=white
 
-### Automation & Development
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+**⚙️ Platform**
 
-### CI/CD & DevOps
-https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-squareer&logoColor=white
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?are&logo=kubernetes&logoColor=white
 
-### Observability
-https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white
+**💻 Development**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-squareon&logoColor=white
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DFsquare&logo=javascript&logoColor=black
+
+**📊 Observability**
+
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-squarena&logoColor=white
+
+**🚀 DevOps**
+
+![GitHub Actions](https://img.shields.io/badge/GFF?style=flat-square&logo=github-actions&logoColor=white
 
 ---
 
