@@ -91,8 +91,6 @@ When I'm not exploring cloud technologies, you'll probably find me:
 
 ## 🏆 Certifications
 
-## 🏆 Certifications
-
 - [AWS Certified AI Business Strategist](https://www.credly.com/badges/ebccb4fd-651a-4f2d-8b51-3b1bd73a9ee6/public_url)
 - [AWS Certified AI Business Strategist Early Adopter](https://www.credly.com/badges/babf0250-9471-4a36-bccc-1a5195a372c3/public_url)
 - [AWS Certified AI Practitioner](https://www.credly.com/badges/11cd541b-d865-4ea7-a590-152d4f622af4/public_url)
